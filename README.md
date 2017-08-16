@@ -8,8 +8,3 @@ How to Start
 2.use script settdb.sh for DB login details registry
 3.run scripts whatever you want if there are
 
-script list:
-1. settdb.sh     inputs: username,password,TNS_STRING   usage: sh settdb.sh test test test01 
-1. showdb.sh     inputs: none                           usage: sh showdb.sh
-
-

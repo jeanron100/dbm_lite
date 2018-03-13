@@ -1,5 +1,4 @@
 #!/bin/bash
-
 VIEW_OWNER=`sqlplus -silent $DB_CONN_STR@$SH_DB_SID <<END
 set pagesize 50 feedback off verify off heading on echo off
 col owner format a20
